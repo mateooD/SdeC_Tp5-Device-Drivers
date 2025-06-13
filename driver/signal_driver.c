@@ -11,7 +11,7 @@
 #define CLASS_NAME  "signal_class_TP5"
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Tu Nombre");
+MODULE_AUTHOR("Grupo Multitaskers");
 MODULE_DESCRIPTION("Char driver con GPIO y overlay");
 
 static struct gpio_desc *gpio1;
